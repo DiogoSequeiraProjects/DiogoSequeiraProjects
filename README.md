@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Diogo Sequeira
 
-<!--
-**DiogoSequeiraProjects/DiogoSequeiraProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student | Cloud Security Enthusiast
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Azure Secure Landing Zone
+Secure Azure environment with:
+- Network Segmentation
+- NSGs
+- RBAC
+- Resource Locks
+- Azure Policy
+- Cost Management
+
+### Domain Analyzer
+Threat Intelligence and Infrastructure Assessment Platform
+
+### Cybersecurity Projects
+Collection of practical cybersecurity projects and labs.
+
+## Technologies
+
+Azure | Python | FastAPI | Docker | Linux | Networking | Cybersecurity
+
+## Contact
+Email: diogo.sequeira2004@gmail.com
+
+LinkedIn: Diogo Sequeira
