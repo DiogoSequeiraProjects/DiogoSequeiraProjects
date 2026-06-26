@@ -1,119 +1,151 @@
+```markdown
 # Hi, I'm Diogo Sequeira 👋
 
-Computer Engineering Student at Universidade Portucalense (UPT) with a strong interest in Cloud Security, Azure and Cybersecurity.
+Computer Engineering Student at Universidade Portucalense (UPT) passionate about **Cloud Security, Microsoft Azure, DevSecOps and Infrastructure Security**.
 
-Currently building hands-on projects focused on Azure Security, Threat Intelligence, Infrastructure Security and Cloud Governance.
-
-My goal is to become a Cloud Security Engineer.
+I enjoy designing secure cloud environments, automating infrastructure with Terraform and developing security-focused applications. My goal is to become a **Cloud Security Engineer**.
 
 ---
 
-## 🏆 Certifications & Badges
+# 🏆 Certifications
 
-* Microsoft AI Skills Fest 2026 Badge
-* AZ-900: Microsoft Azure Fundamentals (Planned)
-* SC-900: Microsoft Security, Compliance and Identity Fundamentals (Planned)
-
----
-
-## 🚀 Featured Projects
-
-### Azure Secure Landing Zone
-
-Designed and deployed a secure Azure Landing Zone implementing:
-
-* Network Segmentation
-* Network Security Groups (NSGs)
-* Role-Based Access Control (RBAC)
-* Azure Policies
-* Resource Locks
-* Cost Management Controls
-* Infrastructure as Code (Terraform)
-
-**Technologies:** Azure, Terraform, Networking, Security
-
-🔗 Repository: https://github.com/DiogoSequeiraProjects/azure-secure-landing-zone
+- ✅ Microsoft AI Skills Fest 2026
+- 🎯 Microsoft Azure Fundamentals (AZ-900) *(Scheduled)*
+- 🎯 Microsoft Security, Compliance and Identity Fundamentals (SC-900) *(Planned)*
 
 ---
 
-### Domain Analyzer
+# 🚀 Featured Projects
 
-Threat Intelligence and Infrastructure Assessment Platform focused on infrastructure discovery, security posture assessment and OSINT-based analysis.
+## Enterprise Azure Security Environment
 
-**Technologies:** Python, FastAPI, Docker, Networking, Cybersecurity
+Enterprise-inspired Azure environment implementing secure cloud architecture following Microsoft best practices.
 
-🔗 Repository: https://github.com/DiogoSequeiraProjects/domain-analyzer
+### Highlights
 
----
+- Enterprise Azure Secure Landing Zone
+- Hub-and-Spoke Networking
+- Network Security Groups (NSGs)
+- Azure RBAC
+- Azure Policy
+- Resource Locks
+- Cost Management
+- Infrastructure as Code (Terraform)
+- GitHub Actions CI/CD
+- Checkov Security Validation
 
-### Cybersecurity Projects
+**Technologies**
 
-Collection of cybersecurity projects, security labs and practical exercises focused on offensive and defensive security concepts.
+`Azure` • `Terraform` • `GitHub Actions` • `Checkov` • `Networking` • `RBAC`
 
-**Technologies:** Python, Linux, Networking, Cybersecurity
+🔗 Repository
 
-🔗 Repository: https://github.com/DiogoSequeiraProjects/cybersecurity-projects
-
----
-
-## 🛠 Technical Skills
-
-### Cloud
-
-* Microsoft Azure
-* Azure Networking
-* Azure Security
-* Cloud Governance
-
-### Security
-
-* Threat Intelligence
-* Security Hardening
-* Vulnerability Assessment
-* Security Best Practices
-
-### Programming
-
-* Python
-* FastAPI
-* Java
-* C#
-
-### DevOps & Tools
-
-* Docker
-* Git
-* GitHub Actions
-* Terraform
-* Linux
+https://github.com/DiogoSequeiraProjects/enterprise-azure-security-environment
 
 ---
 
-## 🎯 Current Focus
+## Domain Analyzer & Threat Intelligence Engine
 
-* Azure Secure Landing Zone
-* Threat Intelligence Platform Development
-* Cloud Security Engineering
-* Infrastructure as Code (Terraform)
-* Preparing for AZ-900
-* Preparing for SC-900
+Infrastructure Security and Threat Intelligence platform focused on infrastructure discovery, attack surface analysis and OSINT.
 
----
+### Features
 
-## 📫 Contact
+- DNS Enumeration
+- TLS/SSL Analysis
+- HTTP Security Headers
+- Shodan Integration
+- REST API (FastAPI)
+- Docker Compose
 
-📧 Email: [diogo.sequeira2004@gmail.com](mailto:diogo.sequeira2004@gmail.com)
+**Technologies**
 
-💼 LinkedIn: https://www.linkedin.com/in/diogo-sequeira-419202358/
+`Python` • `FastAPI` • `Docker` • `Networking` • `Cybersecurity`
 
----
+🔗 Repository
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiogoSequeiraProjects\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSequeiraProjects\&layout=compact)
+https://github.com/DiogoSequeiraProjects/domain-analyzer
 
 ---
 
-*"Continuous learning and hands-on experience are the foundation of my journey towards Cloud Security Engineering."*
+## Cybersecurity Projects
+
+Collection of practical cybersecurity projects, labs and security tools covering networking, offensive security and defensive security concepts.
+
+**Technologies**
+
+`Python` • `Linux` • `Networking` • `Cybersecurity`
+
+🔗 Repository
+
+https://github.com/DiogoSequeiraProjects/cybersecurity-projects
+
+---
+
+# 🛠 Technical Skills
+
+## Cloud
+
+- Microsoft Azure
+- Azure Networking
+- Azure RBAC
+- Azure Policy
+- Cloud Governance
+- Infrastructure as Code (Terraform)
+
+## Security
+
+- Infrastructure Hardening
+- Threat Intelligence
+- Vulnerability Assessment
+- Network Security
+- OSINT
+
+## DevOps
+
+- Terraform
+- GitHub Actions
+- Docker
+- Docker Compose
+- Git
+
+## Programming
+
+- Python
+- FastAPI
+- Java
+- C#
+
+---
+
+# 🎯 Currently Learning
+
+- Azure Security
+- Cloud Governance
+- Infrastructure as Code
+- DevSecOps
+- Microsoft Azure Certifications
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+diogo.sequeira2004@gmail.com
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/diogo-sequeira-419202358/
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiogoSequeiraProjects&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSequeiraProjects&layout=compact&theme=github_dark)
+
+---
+
+> *"Building secure cloud environments through continuous learning, hands-on experience and Infrastructure as Code."*
+```
